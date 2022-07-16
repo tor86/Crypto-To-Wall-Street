@@ -1,0 +1,30 @@
+-----Database1-----
+
+CREATE TABLE BITCOIN_PRICES(
+	Date date NOT NULL,
+	Open int, 
+	Close int, 
+	Weighted_price int, 
+PRIMARY KEY(Date)
+);
+-----Database 2------
+
+CREATE TABLE BITCOIN_trading(
+	Date date NOT NULL,
+	Close int,
+	Volume_BTC int, 
+	Volume_Currency int, 
+	Weighted_price int, 
+PRIMARY KEY(Date)
+);
+-----Database 3-----
+CREATE TABLE BITCOIN_movements(
+	Date date NOT NULL,
+	open int,
+	high int, 
+	low int, 
+	Close int,
+	Weighted_price int, 
+PRIMARY KEY(Date)
+);
+																												OPEN_ int, HIGH_ int, LOW_ int, CLOSE_ int, PRIMARY KEY (TIMESTAMP_));
