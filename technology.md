@@ -8,9 +8,9 @@ To preform the analysis on the bitcoin.csv file, we begin by transforming and cl
 After preforming the tranformation, we store our data in Postgresql.
 
 
-### Machine Learning Models
+## Machine Learning Models
 We have created 4 different machine learning models to run our data through to determine which model provides the highest accuracy score and lowest loss.
 
 
-### Dashboard
+## Dashboard
 We are using Tableau to visualize our findings.
