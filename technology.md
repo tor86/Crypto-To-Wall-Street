@@ -2,9 +2,13 @@
 
 ## Data Transformation and Cleaning
 To preform the analysis on the bitcoin.csv file, we begin by transforming and cleaning our data with pandas in Jupyter Notebook.
+We dropped any null values and set the timestamp as the index for our dataset.
 
 ## Data Storge
-After preforming the tranformation, the data is stored in a Postgresql database.
+After preforming the tranformation, the data is stored in a Postgresql database. In the Postgresql, 3 different tables:
+1. Bitcoin_trading
+2. Bitcoin_prices
+3. Bitcoin_movement
 
 
 ## Machine Learning Models
