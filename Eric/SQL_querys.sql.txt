@@ -1,0 +1,29 @@
+------- Basetable -----
+Create table Bitcoin(
+   date date ,
+   open_ dec,
+   high dec,
+   low dec,
+   close_ dec,
+   Volume_BTC dec, 
+   Volume_Currency dec, 
+   Weighted_price dec
+);
+-----Database1-----
+SELECT  date, Volume_BTC, Volume_Currency, Weighted_price
+INTO Bitcoin_trading
+FROM Bitcoin
+WHERE (date BETWEEN '2017-01-01' AND '2021-12-31')
+;
+-----Database 2------
+SELECT date, open_, close_, Weighted_price
+INTO Bitcoin_prices
+From bitcoin
+WHERE (date BETWEEN '2016-01-01' AND '2021-12-31')
+;
+-----Database 3-----
+Select date, open_, high, low, close_, weighted_price
+INTO Bitcoin_movement
+FROM bitcoin
+WHERE (date BETWEEN '2016-01-01' AND '2021-12-31')
+;
