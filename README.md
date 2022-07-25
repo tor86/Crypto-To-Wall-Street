@@ -1,4 +1,4 @@
-# Crypto-To-Wall-Street/First ReadMe Draft
+# Crypto-To-Wall-Street/ReadMe Draft
 ---
 ---
 Build a machine learning model to be able to accurately forecast future price of Bitcoin similar to that of the traditional stock market prediction.
