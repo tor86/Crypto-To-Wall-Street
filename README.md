@@ -11,7 +11,7 @@ Using historical bitcoin price data from Kaggle Bitcoin Historical Data. Dataset
 - Close: Closing price on given day
 - Volume (BTC): 
 - Volume: 
-- Market Cap: Market capitalization in USD
+- Weighted Price:
 
 
 Google Slides URL:
