@@ -45,9 +45,8 @@ Google Slides URL:
 [Google Slides](https://docs.google.com/presentation/d/1VHeZ6MnNOmpg_0YzP9D0KMj80vfIzco-kuI5W7_4aqA/edit#slide=id.p)
 
 Dashboard 1:
-[Dashboard 1]
-[https://public.tableau.com/app/profile/kyle.kato/viz/Bitcoin_Viz/BitcoinPrices?publish=yes](https://public.tableau.com/app/profile/kyle.kato/viz/Bitcoin_Viz/Dashboard1)
+[Dashboard 1]](https://public.tableau.com/app/profile/kyle.kato/viz/Bitcoin_Viz/Dashboard1)
+[https://public.tableau.com/app/profile/kyle.kato/viz/Bitcoin_Viz/BitcoinPrices?publish=yes]
 
 Dashboard 2:
-[Dashboard 2]
-(https://public.tableau.com/app/profile/kyle.kato/viz/Bitcoin_Viz_db_2/Dashboard2?publish=yes)
+[Dashboard 2](https://public.tableau.com/app/profile/kyle.kato/viz/Bitcoin_Viz_db_2/Dashboard2?publish=yes)
