@@ -37,6 +37,10 @@ Using historical bitcoin price data from [Kaggle Bitcoin Historical Data](https:
 * Tableau
 
 ### Machine Learning Models
+* Random Forest Classifier
+* Multiple Linear Regression
+* Deep Learning
+* SVM (Support Vector Machine)
 
 
 
