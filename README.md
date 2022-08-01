@@ -52,6 +52,6 @@ Dashboard 1:
 https://public.tableau.com/app/profile/kyle.kato/viz/AnnualPriceandVolumeCorrelation/Dashboard1?publish=yes
 
 Dashboard 2:
-[[Dashboard 2](https://public.tableau.com/app/profile/kyle.kato/viz/Bull/Bear/Dashboard2)](https://public.tableau.com/app/profile/kyle.kato/viz/BullBear/Dashboard2?publish=yes)
+https://public.tableau.com/app/profile/kyle.kato/viz/BullBear/Dashboard2?publish=yes
 
 [Dashboard 2](https://public.tableau.com/app/profile/kyle.kato/viz/Bitcoin_Viz_db_2/Dashboard2)
