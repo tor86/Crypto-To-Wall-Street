@@ -48,6 +48,10 @@ Using historical bitcoin price data from [Kaggle Bitcoin Historical Data](https:
 
 [Google Slides](https://docs.google.com/presentation/d/1VHeZ6MnNOmpg_0YzP9D0KMj80vfIzco-kuI5W7_4aqA/edit#slide=id.p)
 
+Dashboard 1:
 https://public.tableau.com/app/profile/kyle.kato/viz/AnnualPriceandVolumeCorrelation/Dashboard1?publish=yes
+
+Dashboard 2:
+[Dashboard 2](https://public.tableau.com/app/profile/kyle.kato/viz/Bull/Bear/Dashboard2)
 
 [Dashboard 2](https://public.tableau.com/app/profile/kyle.kato/viz/Bitcoin_Viz_db_2/Dashboard2)
