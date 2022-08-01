@@ -53,5 +53,5 @@ Dashboard 1:
 https://public.tableau.com/views/AnnualPriceandVolumeCorrelation/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Dashboard 2:
-https://public.tableau.com/views/BullBear/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/AnnualPriceandVolumeCorrelation/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
