@@ -65,6 +65,27 @@ Included in the visualizaition are the periods known as Bear and Bull markets.
 <img width="1112" alt="BearNBull" src="https://user-images.githubusercontent.com/96508478/182276029-2b2c5c82-9e72-4a20-bc40-721a4d9ee866.png">
 
 
+---
+### Price and Volume Correlation
+
+Visualizing the relationship between the pricing and the volume of Bitcoin trading each year.
+
+Using the blue color scale to demonstrate the elapsed time. The lighter cirlces represent earlier observations with the darker representing the latter.
+
+1. 2017 Correlation Trendline:
+Weighted Price = 179.99 * Volume + 2,245.69 
+
+2. 2018 Correlation Trendline:
+Weighted Price = 75.54 * Volume + 6,948.97
+
+3. 2019 Correlation Trendline:
+Weighted Price = 293.02* Volume + 4,576.70
+
+We can observe a pattern based on the slope of the correlation lines. As the line get steeper, the price is rising at the same rate as the volume of trading. As the slope nears 0, the price is declining while the trading amount remains nearly the same, indicating sell off or Bear Market.
+
+![AnnualPriceandVolumeCorrelation](https://user-images.githubusercontent.com/96508478/182276824-d829efca-a747-4a25-a859-1af08e289a37.png)
+
+
 ### Dashboard
 Using Tableau to visualize data. To present our model information we will also show data using Python.
 
