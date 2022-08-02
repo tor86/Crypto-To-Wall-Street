@@ -52,8 +52,6 @@ In the Postgresql, we created 3 different tables
 * SVM (Support Vector Machine)
 
 To determine which model fit the data best, we will use metrics such as p-value, r-squared, accuracy, and loss.
-Once we determine the best model, we will optimize it to return to best results.
-
 
 ---
 ### Bitcoin's Bull and Bear Market
