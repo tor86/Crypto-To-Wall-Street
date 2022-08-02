@@ -55,6 +55,16 @@ To determine which model fit the data best, we will use metrics such as p-value,
 Once we determine the best model, we will optimize it to return to best results.
 
 
+---
+### Bitcoin's Bull and Bear Market
+
+Included in the visualizaition are the periods known as Bear and Bull markets.
+ * Bear Market: Period of decreasing prices. Shown in red.
+ * Bull Market: Period of increasing prices. Shown in green.
+
+<img width="1112" alt="BearNBull" src="https://user-images.githubusercontent.com/96508478/182276029-2b2c5c82-9e72-4a20-bc40-721a4d9ee866.png">
+
+
 ### Dashboard
 Using Tableau to visualize data. To present our model information we will also show data using Python.
 
