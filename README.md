@@ -91,4 +91,4 @@ Using Tableau to visualize data. To present our model information we will also s
 
 [Dashboard 2](https://public.tableau.com/views/AnnualPriceandVolumeCorrelation/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Google Slides](https://docs.google.com/presentation/d/1VHeZ6MnNOmpg_0YzP9D0KMj80vfIzco-kuI5W7_4aqA/edit#slide=id.p)
+[Google Slides](https://docs.google.com/presentation/d/1hXdjreiJd7LhJpBIA6EX1Vy_Hb7o8VrA/edit#slide=id.p3)
