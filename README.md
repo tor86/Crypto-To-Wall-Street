@@ -83,6 +83,15 @@ We can observe a pattern based on the slope of the correlation lines. As the lin
 
 ![AnnualPriceandVolumeCorrelation](https://user-images.githubusercontent.com/96508478/182276824-d829efca-a747-4a25-a859-1af08e289a37.png)
 
+---
+### Final Thoughts
+
+Does it work?
+* Yes but the data we have is oversampled inherently and due to the linearity of our question it affected our machine learning.
+
+What could we change?
+* Add more variables outside of just Bitcoin such as commodity tracking index, US inflation, voltality index, or market betas.
+
 
 ### Dashboard
 Using Tableau to visualize data. To present our model information we will also show data using Python.
