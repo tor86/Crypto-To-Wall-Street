@@ -84,6 +84,15 @@ We can observe a pattern based on the slope of the correlation lines. As the lin
 ![AnnualPriceandVolumeCorrelation](https://user-images.githubusercontent.com/96508478/182276824-d829efca-a747-4a25-a859-1af08e289a37.png)
 
 ---
+
+##Results for Models
+* Linear Regression = 1.00
+* XGBRegressor = .99
+* KernelRidge = 1.41
+* ElasticNetCV - .91 - .88
+
+---
+
 ### Final Thoughts
 
 Does it work?
