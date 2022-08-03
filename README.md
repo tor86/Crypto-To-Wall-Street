@@ -40,7 +40,7 @@ In the Postgresql, we created 3 different tables
 
 ### Technologies, Languages, and Tools
 
-* Postgresql
+* PostgreSQL
 * Jupyter Notebook
 * Pandas
 * Tableau
