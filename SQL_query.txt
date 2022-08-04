@@ -8,7 +8,6 @@ Create table Bitcoin(
    Volume_BTC dec, 
    Volume_Currency dec, 
    Weighted_price dec
-Where (date between '2017-01-01' and '2021-12-31')
 );
 -----Database1-----
 SELECT  date, Volume_BTC, Volume_Currency, Weighted_price
@@ -28,9 +27,4 @@ INTO Bitcoin_movement
 FROM bitcoin
 WHERE (date BETWEEN '2016-01-01' AND '2021-12-31')
 ;
--------Query---------
-SELECT  date, open_, high, low, open, close_,Volume_BTC, Volume_Currency, Weighted_price
-INTO Bitcoin_DFL
-FROM Bitcoin
-WHERE (date BETWEEN '2017-01-01' AND '2021-12-31')
-;
+
