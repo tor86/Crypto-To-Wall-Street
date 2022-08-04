@@ -85,7 +85,7 @@ We can observe a pattern based on the slope of the correlation lines. As the lin
 
 ---
 
-###Results for Models
+### Results for Models
 * Linear Regression = 1.00
 * XGBRegressor = .99
 * KernelRidge = 1.41
